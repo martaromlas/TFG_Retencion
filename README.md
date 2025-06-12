@@ -5,8 +5,8 @@ Este repositorio contiene el código, datos y modelo desarrollados.
 ## 📁 Estructura
 
 - `CUADERNOS/`: cuadernos Jupyter organizados por fases del proyecto:
-  - `1_ingenieria_dato.ipynb`: limpieza y preprocesamiento.
-  - `2_analisis_dato.ipynb`: entrenamiento y evaluación de modelos.
+  - `1_ingenieria_dato.ipynb`: limpieza y preprocesamiento. **La codificación de las variables está en el cuaderno 2_analisis_dato**
+  - `2_analisis_dato.ipynb`: entrenamiento y evaluación de modelos. 
   - `3_analisis_negocio.ipynb`: implementación de API.
 
 - `DATOS/`: base de datos anonimizada usada para el entrenamiento del modelo (`BBDD_TFG_v2.xlsx`).
