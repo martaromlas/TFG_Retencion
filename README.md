@@ -1,6 +1,6 @@
 # TFG - MACHINE LEARNING PARA PREDECIR LA PROBABILIDAD DE RETENCIÓN DE CLIENTES
 
-Este repositorio contiene el código, datos y modelo entrenado desarrollados.
+Este repositorio contiene el código, datos y modelo desarrollados.
 
 ## 📁 Estructura
 
