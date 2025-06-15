@@ -1,6 +1,6 @@
 # TFG - MACHINE LEARNING PARA PREDECIR LA PROBABILIDAD DE RETENCIÓN DE CLIENTES
 
-Este repositorio contiene el código, datos y modelo desarrollados.
+Este repositorio contiene el código, datos, modelo y dashboard desarrollados.
 
 ## 📁 Estructura
 
@@ -12,3 +12,5 @@ Este repositorio contiene el código, datos y modelo desarrollados.
 - `DATOS/`: base de datos anonimizada usada para el entrenamiento del modelo (`BBDD_TFG_v2.xlsx`).
 
 - `MODELO/`: modelo final entrenado guardado como `modelo_retencion_pipeline.pkl`.
+
+- `POWERBI/`: dashboard desarrollado para los equipos de retención `DASHBOARD_RETENCIÓN.pbix`.
